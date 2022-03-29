@@ -4,7 +4,7 @@
 This is a challenge from [Frontend-Mentor Website](https://www.frontendmentor.io/challenges). The purpose of this challenge is to improve my front-end skills.
 
 ## Preview
-You can see the live result here → [Four proof section](https://inganta23.github.io/four-card-section/).
+You can see the live result here → [Four Card section](https://inganta23.github.io/four-card-section/).
 <details>
     <summary>🖥 Desktop version</summary>
 
